@@ -1,0 +1,3 @@
+Create a table student with the following fieds: rollno,name,age,address,phoneno. 
+Insert 5 values inside the student table
+Eg: insert into stu values(19228,’Kisan’,18,’Madurai’,8056697801) 
